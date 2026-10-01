@@ -10,6 +10,12 @@
 
 Este repositorio contiene la estructura inicial del sistema web para la gestión de pedidos de comida tradicional en la ciudad imperial del Cusco. El proyecto busca interconectar a los restaurantes locales de comida típica cusqueña (como chicharronerías, picanterías y quintas) con clientes locales y turistas.
 
+### Gastronomía Tradicional Cusqueña
+| Chicharronerías Tradicionales | Picanterías y Quintas |
+| :---: | :---: |
+| ![Chicharrón Cusqueño](./assets/chicharron.jpg) | ![Picantería Cusqueña](./assets/picanteria.jpg) |
+| *Plato típico de Chicharrón Cusqueño con choclo y salsa criolla.* | *Gastronomía tradicional en picanterías y quintas del Cusco.* |
+
 ---
 
 ## 2. Herramientas Utilizadas
