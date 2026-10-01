@@ -12,7 +12,14 @@ Este repositorio contiene la estructura inicial del sistema web para la gestión
 
 ---
 
-## 2. Configuración e Historial de Comandos
+## 2. Herramientas Utilizadas
+- **Visual Studio Code / Antigravity IDE**: Entorno de desarrollo para la edición de código y ejecución de terminal.
+- **Git**: Sistema de control de versiones distribuido.
+- **GitHub**: Plataforma de alojamiento de repositorios remotos.
+
+---
+
+## 3. Configuración e Historial de Comandos
 
 En cumplimiento con la guía del laboratorio, se ejecutaron las siguientes actividades de configuración y control de versiones:
 
@@ -42,7 +49,21 @@ git push -u origin main
 
 ---
 
-## 3. Reflexión
+## 4. Evidencias de Commits
+
+A continuación se presenta la evidencia de la ejecución del comando `git log` que certifica la autoría y registro de los commits realizados por el alumno:
+
+```text
+commit c765aecc75460ba1cc1f85eaf0fa4624117dd263
+Author: Jose Puma <josefranciscopuma20@gmail.com>
+Date:   Thu Oct 1 15:15:30 2026 -0500
+
+    Primer commit
+```
+
+---
+
+## 5. Reflexión
 
 ### ¿Por qué Git es crítico en proyectos colaborativos?
 Git es fundamental en proyectos colaborativos por las siguientes razones:
